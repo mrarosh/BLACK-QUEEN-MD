@@ -248,10 +248,10 @@ Void.sendMessage(citel.chat, {
           }) 
           await Void.sendPresenceUpdate('recording', citel.chat);
           await Void.sendMessage(citel.chat, { audio: {url : 'https://github.com/nipuna15/Voice/raw/main/Alive.mp3',}, mimetype: 'audio/mpeg', ptt: true }, { quoted: citel, });
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Nipuna rangana.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Mr.Arosh.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-This is  ${tlang().title}.
+I AM BLACK QUEEN.
 ${alivemessage}
 
 🍧Version:-* 0.0.2
