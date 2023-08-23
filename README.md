@@ -1,16 +1,15 @@
-![image](https://github.com/mrarosh/BLACK-QUEEN-MD/assets/141043623/606af8e5-bd55-4022-ab45-bcbc81ec8d34)<div align="center">
-    ⏬<b>🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b>
+⏬<b>🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b>
 
   
 <div align="center">
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+BLUE+LION+WHATSAPP+BOT;MADE+BY+CYBER+TECH+TEAM)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+BLACK+QUEEN+WHATSAPP+BOT;MADE+BY+CYBER+TECH+TEAM)](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com/nipuna15">
-    <img src="https://i.ibb.co/n0DTPxs/Whats-App-Image-2023-06-16-at-15-06-03.jpg" width="700px">
+    <img src="https://raw.githubusercontent.com/mrarosh/BLACK-QUEEN-MD/main/Themes/MY.png" width="700px">
   </a>
   
 
@@ -26,7 +25,6 @@ Blue Lion whatsapp bot is,
  
 ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
  ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@samudithaarosha/BLACK-QUEEN?v=1)
-)
 
 
 
