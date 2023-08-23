@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/mrarosh/BLACK-QUEEN-MD/assets/141043623/606af8e5-bd55-4022-ab45-bcbc81ec8d34)<div align="center">
     ⏬<b>🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b>
 
   
@@ -25,7 +25,8 @@ Blue Lion whatsapp bot is,
   
  
 ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
- ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@nipunarangana/BLUE-LION-V2?v=1)
+ ## [![Run on Repl.it](https://replit.com/@samudithaarosha/BLACK-QUEEN?v=1)
+)
 
 
 
